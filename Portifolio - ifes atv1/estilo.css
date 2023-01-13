@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}    
+
+body{
+	font-family: helvetica, Arial, sans-serif;
+	font-size: 16px;
+	margin: 0;
+}
+
+.menu{
+    display: inline;
+    margin: 10px ;
+}
+.meio{
+    margin: 10px ;
+    padding: 5px;
+}
+.container .side-column{
+	float: left;
+	padding: 12px;
+	width: 31%;
+    margin: 10px;
+}
+
+.footer{
+	text-align: center;
+    text-transform: uppercase;
+    margin: 10px ;
+}
